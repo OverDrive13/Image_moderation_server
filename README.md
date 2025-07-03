@@ -15,8 +15,9 @@ pip install -r requirements.txt
 
 3. Создайте файл .env и добавьте API ключи:
 env
-SIGHTENGINE_API_USER=1169191193
-SIGHTENGINE_API_SECRET=Tmu2wPKcYkzTVGKPKoWqR64PJm64GSDv
+ключи можно получить зарегистрировавшись на https://dashboard.sightengine.com/api-credentials
+SIGHTENGINE_API_USER=
+SIGHTENGINE_API_SECRET=
 
 3. Запустите сервер:
 ```bash
