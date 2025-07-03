@@ -6,7 +6,6 @@ from fastapi import FastAPI, UploadFile, File, HTTPException
 from fastapi.responses import JSONResponse
 
 
-
 load_dotenv()
 
 app = FastAPI()
